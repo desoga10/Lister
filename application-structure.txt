@@ -1,0 +1,19 @@
+|src
+
+  |app
+
+    |  customer
+    |  customer.component.ts| html |css
+
+    |  customer-list
+    |  customer-list.component.ts | html | css
+
+    |  shared
+    |   customer.service.ts
+
+    |  app.module.ts
+
+    |  environments
+    |  environments.ts (saved firebase connections details)
+
+    |  index.html (cdn path for bootstrap 4 and bootswatch)
